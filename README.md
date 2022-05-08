@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skat2006
+- 👀 I’m interested in Java developing
+- 🌱 I’m constantly learning Java
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me by mail: avs@insperion.ru
